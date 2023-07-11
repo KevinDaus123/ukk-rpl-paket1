@@ -21,5 +21,4 @@ CRUD data SPP
 Entri Transaksi Pembayaran
 
 Lihat Histori Pembayaran
-
 Generate Laporan
