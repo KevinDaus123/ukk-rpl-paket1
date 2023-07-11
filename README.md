@@ -3,8 +3,8 @@ Aplikasi ini memiliki 3 hak akses level login, yang diantaranya :
 Level Admin
 Login
 Logout
-CRUD data siswa
-CRUD data petugas
+-CRUD data siswa
+-CRUD data petugas
 CRUD data Kelas
 CRUD data SPP
 Entri Transaksi Pembayaran
