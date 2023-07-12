@@ -33,7 +33,7 @@ Level Siswa
 2. Password: petugas
 
 ### Siswa
-1. Username: siswa
-2. Password: siswa
+1. NIS: siswa
+2. NISN: siswa
 
 # Traktir Kopi https://sociabuzz.com/kevindaus
